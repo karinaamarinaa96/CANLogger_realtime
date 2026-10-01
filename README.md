@@ -1,7 +1,7 @@
 # CANLogger_realtime
-CAN to UART\n
-Detect can bitrate automatically\n
-Send received data on serial port with header and footer
+CAN to UART
+Detect can bitrate automatically
+Send & received data on serial port with header and footer
 A python app on PC shows Frames
 STM32F103CBT6
 TJA1050
